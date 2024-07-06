@@ -21,10 +21,10 @@ repository               : "hitefork/hitefork.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Liang Junxuan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Body dies, thoughts live forever"
   location         : "Shanghai, China"
   employer         : "Shanghai Jiao Tong University"
   uri              : # URL
