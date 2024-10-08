@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student studying [Computer Science And Technology](https://www.cs.sjtu.edu.cn/) , [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). My research interest includes Embodied AI, Robotics, Machine Learning.
+I'm a third year undergraduate student studying [Computer Science](https://www.cs.sjtu.edu.cn/) , [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). My research interest includes Embodied AI, Robotics, Machine Learning.
 
 My CV: [Junxuanl's Curriculum Vitae](../files/RenderCV.pdf)
 

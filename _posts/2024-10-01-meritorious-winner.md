@@ -12,7 +12,7 @@ tags:
 In Memory Of My First Award In University
 ======
 
-Recently, I always have a headache because of writing papers. To relax, I clicked on some blogs I had posted before. Inadvertently, I realized that it seems that I haven't written a blog about my first experience of winning an award in a mathematical modeling competition. So I specially reorganized my competition experience and feelings at that time for everyone's reference.
+Recently, I always have a headache because of writing papers. To relax, I clicked on some blogs I had posted before. Inadvertently, I realized that it seems that I haven't written a blog about my first experience of winning an award in a mathematical modeling contest. So I specially reorganized my contest experience and feelings at that time for everyone's reference.
 
 Preparation
 ------
@@ -42,7 +42,7 @@ Finally, one day before the end, I completed all the modeling and data processin
 Result
 ------
 
-The competition was in February 2024, and the results didn't come out until May 2024. When I was on the subway to Xuhui District, Shanghai, I received the final competition result. It was an M award, which means we got a ranking in the top 6.6%. I was so happy that I jumped up, so much so that the passengers next to me came over and asked me what had happened.
+The contest was in February 2024, and the results didn't come out until May 2024. When I was on the subway to Xuhui District, Shanghai, I received the final contest result----Meritorious Winner, which means we got a ranking in the top 6.6%. I was so happy that I jumped up, so much so that the passengers next to me came over and asked me what had happened.
 
 
 ![M](../../../../../images/M/meritorious.png#pic_center)

@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Junxuanl / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Junxuanl"
-description              : &description "a third-year undergraduate student from Shanghai Jiao Tong University, majoring in Computer Science And Technology."
+description              : &description "a third-year undergraduate student from Shanghai Jiao Tong University, majoring in Computer Science."
 url                      : https://hitefork.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hitefork/hitefork.github.io"
@@ -71,7 +71,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # URL
+  zhihu            : https://www.zhihu.com/people/98-33-70-98-37  # URL
 
 
 # Site Settings
