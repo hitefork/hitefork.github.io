@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Undergraduate Student in Computer Science,Shanghai Jiao Tong Univeisty
-  * GPA: 3.5/4.3 
+  * GPA: 3.54/4.3 
   * A member of The Zhiyuan Honors Program
   * Coursework: Machine Learning, Modern Opertaing System, Computational Theory
 
@@ -21,31 +21,40 @@ Work experience
 * June 2022 – Present: Research Intern
   * Machine Vision and Intelligence Group (MVIG), Shanghai Jiao Tong Univeisty, Shanghai, China
   * Duties includes: Exploited the recently progressive human motion imitation algorithms and trained a data-driven human inverse dynamics solver ImDyS(olver) in a fully supervised manner
-  * Supervisor: Ass.Prof Yong-Lu Li, Zhiyuan Honors Program, Shanghai Jiao Tong University
+  * Supervised by Prof Yong-Lu Li and Prof Cewu Lu
 
 * Feb 2022 – June 2022: Research Intern
   * Department Of Electrical Engineering, Shanghai Jiao Tong Univeisty, Shanghai, China
   * Duties included:  Proposed a distributed photovoltaic state monitoring model combining data processing algorithms, self-learning algorithms based on sparse coding, and distributed robust logistic regression algorithms
-  * Supervisor: Postdoc Mengyuan Wang, Shanghai Jiao Tong University
-  
+  * Supervisor: Prof Xiaoyuan Xu
+
+Publications
+======
+
+<img width = "150" height = "100" align="left" src="../files/walking.gif"/>Xinpeng Liu, **Junxuan Liang**, Zili Lin, Haowen Hou, Yong-Lu Li\*, Cewu Lu\* (\*=corresponding authors). "ImDy: Human Inverse Dynamics from Imitated Observations." arXiv preprint. [[Paper]](https://arxiv.org/abs/2410.17610) [[Project]](https://foruck.github.io/ImDy/)
+
+
 Skills
 ======
 * English
   * CET6 528
   * CET4 576
+* Physics Engine
+  * Nimble Physics
 * Programming Language
-  * C++
-  * C
   * Python
+  * C++/C
+  * Latex/Typst
+
 * Historical Research
   * History Of The East Asian 
   * History Of The West Europe 
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
+
+
+  <!-- <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 <!-- Talks
 ======

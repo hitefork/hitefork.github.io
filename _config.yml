@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Junxuanl / Personal Homepage"
+title                    : "Junxuanl"
 title_separator          : "-"
 name                     : &name "Junxuanl"
 description              : &description "a third-year undergraduate student from Shanghai Jiao Tong University, majoring in Computer Science."
