@@ -14,9 +14,11 @@ My CV: [Junxuanl's Curriculum Vitae](../files/RenderCV.pdf)
 
 My resume in Chinese: [Junxuanl's Resume](../files/resume_in_chinese.pdf).
 
-## Publications 
+Publications 
+======
 
-### Physics in human motion
+Physics in human motion
+------
 
 <img width = "150" height = "100" align="left" src="../files/walking.gif"/>Xinpeng Liu, **Junxuan Liang**, Zili Lin, Haowen Hou, Yong-Lu Li\*, Cewu Lu\* (\*=corresponding authors). "ImDy: Human Inverse Dynamics from Imitated Observations." arXiv preprint. [[Paper]](https://arxiv.org/abs/2410.17610) [[Project]](https://foruck.github.io/ImDy/)
 
