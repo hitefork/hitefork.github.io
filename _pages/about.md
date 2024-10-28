@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student studying [Computer Science](https://www.cs.sjtu.edu.cn/) , [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). My research interest includes Embodied AI, Machine Learning.
+I'm a third year undergraduate student studying [Computer Science](https://www.cs.sjtu.edu.cn/) , [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). Now I work as a research assistant in the [MVIG-RHOS](https://mvig-rhos.com/) group, supervised by Prof. [Yong-Lu Li](https://dirtyharrylyl.github.io/) and Prof. [Cewu Lu](https://www.mvig.org/), with PHD student [Xinpeng Liu](https://foruck.github.io/) as my mentor. My research interest includes Embodied AI, Machine Learning. My dream is to create a robot thinking and acting like a real human.
 
 My CV: [Junxuanl's Curriculum Vitae](../files/RenderCV.pdf)
 
