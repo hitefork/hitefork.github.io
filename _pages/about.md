@@ -16,17 +16,13 @@ My resume in Chinese: [Junxuanl's Resume](../files/resume_in_chinese.pdf).
 
 Publications 
 ======
+<img width = "150" height = "90" align="left" src="../files/walking.gif"/>Xinpeng Liu, **Junxuan Liang**, Zili Lin, Haowen Hou, Yong-Lu Li\*, Cewu Lu\* (\*=corresponding authors). "ImDy: Human Inverse Dynamics from Imitated Observations." arXiv preprint. [[Paper]](https://arxiv.org/abs/2410.17610) [[Project]](https://foruck.github.io/ImDy/)
 
-<img width = "150" height = "100" align="left" src="../files/walking.gif"/>Xinpeng Liu, **Junxuan Liang**, Zili Lin, Haowen Hou, Yong-Lu Li\*, Cewu Lu\* (\*=corresponding authors). "ImDy: Human Inverse Dynamics from Imitated Observations." arXiv preprint. [[Paper]](https://arxiv.org/abs/2410.17610) [[Project]](https://foruck.github.io/ImDy/)
-
-<br>
-<br>
-<br>
 <br>
 
 Education
 ======
-* Undergraduate Student in Computer Science,Shanghai Jiao Tong Univeisty
+  * Undergraduate Student in Computer Science,Shanghai Jiao Tong Univeisty
   * GPA: 3.6/4.3 
   * A member of The Zhiyuan Honors Program
   * Coursework: Machine Learning, Modern Opertaing System, Computational Theory
