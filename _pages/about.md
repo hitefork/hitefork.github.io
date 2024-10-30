@@ -14,11 +14,22 @@ My CV: [Junxuanl's Curriculum Vitae](../files/RenderCV.pdf)
 
 My resume in Chinese: [Junxuanl's Resume](../files/resume_in_chinese.pdf).
 
+<figure>
+<img src="../files/walking.gif" width="600"/>
+<figcaption>One must imagine Sisyphus happy</figcaption>
+</figure>
+
+
 Publications 
 ======
-<img width = "150" height = "90" align="left" src="../files/walking.gif"/>Xinpeng Liu, **Junxuan Liang**, Zili Lin, Haowen Hou, Yong-Lu Li\*, Cewu Lu\* (\*=corresponding authors). "ImDy: Human Inverse Dynamics from Imitated Observations." arXiv preprint. [[Paper]](https://arxiv.org/abs/2410.17610) [[Project]](https://foruck.github.io/ImDy/)
 
-<br>
+* Xinpeng Liu, **Junxuan Liang**, Zili Lin, Haowen Hou, Yong-Lu Li\*, Cewu Lu\* (\*=corresponding authors). "ImDy: Human Inverse Dynamics from Imitated Observations." arXiv preprint. [[Paper]](https://arxiv.org/abs/2410.17610) [[Project]](https://foruck.github.io/ImDy/)
+
+Project
+======
+
+* Photovoltaic Power Generation Prediction System: An app built with Matlab and Python [[Project]](https://github.com/hitefork/Photovoltaic-Power-Generation-Prediction-System)
+
 
 Education
 ======
