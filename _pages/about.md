@@ -15,7 +15,8 @@ My CV: [Junxuanl's Curriculum Vitae](../files/RenderCV.pdf)
 My resume in Chinese: [Junxuanl's Resume](../files/resume_in_chinese.pdf).
 
 <figure>
-<img src="../files/walking.gif" width="250"/>
+<img src="../files/walking.gif" width="150"/>
+<img src="../files/running.gif" width="150"/>
 <figcaption>One must imagine Sisyphus happy</figcaption>
 </figure>
 
