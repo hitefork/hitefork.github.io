@@ -16,7 +16,6 @@ My resume in Chinese: [Junxuanl's Resume](../files/resume_in_chinese.pdf).
 
 <figure>
 <img src="../files/walking.gif" width="150"/>
-<img src="../files/running.gif" width="150"/>
 <figcaption>One must imagine Sisyphus happy</figcaption>
 </figure>
 
@@ -35,7 +34,7 @@ Project
 Education
 ======
   * Undergraduate Student in Computer Science,Shanghai Jiao Tong Univeisty
-  * GPA: 3.6/4.3 
+  * GPA: 3.57/4.3 
   * A member of The Zhiyuan Honors Program
   * Coursework: Machine Learning, Modern Opertaing System, Computational Theory
 
