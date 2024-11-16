@@ -34,9 +34,9 @@ Project
 Education
 ======
   * Undergraduate Student in Computer Science,Shanghai Jiao Tong Univeisty
-  * GPA: 3.57/4.3 
+  * Overall Mark: 85/100 GPA: 3.57/4.3 
   * A member of The Zhiyuan Honors Program
-  * Coursework: Machine Learning, Modern Opertaing System, Computational Theory
+  * Core Courses: Machine Learning, Modern Opertaing System, Computational Theory
 
 Work experience
 ======
