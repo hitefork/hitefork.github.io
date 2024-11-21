@@ -24,6 +24,8 @@ Publications
 ======
 
 * Xinpeng Liu, **Junxuan Liang**, Zili Lin, Haowen Hou, Yong-Lu Li\*, Cewu Lu\* (\*=corresponding authors). "ImDy: Human Inverse Dynamics from Imitated Observations." arXiv preprint. [[Paper]](https://arxiv.org/abs/2410.17610) [[Project]](https://foruck.github.io/ImDy/)
+* Xinpeng Liu, **Junxuan Liang**, Chenshuo Zhang, Zixuan Cai, Cewu Lu\*, Yong-Lu Li\* (\*=corresponding authors). "Homogeneous Dynamics Space for Heterogeneous Humans."  (Under review as a conference paper at CVPR 2025)
+* Zixuan Chen, Jiaxin Li, **Junxuan Liang**, Liming Tan, Yejie Guo, Cewu Lu\*, Yong-Lu Li\* (\*=corresponding authors). "M$^3$-VOS: Multi-Phase, Multi-Transition, and Multi-Scenery Video Object Segmentation."  (Under review as a conference paper at CVPR 2025)
 
 Project
 ======
@@ -33,11 +35,10 @@ Project
 
 Education
 ======
-  * Undergraduate Student in Computer Science,Shanghai Jiao Tong Univeisty
-  * Overall Mark: 85/100 GPA: 3.57/4.3 
+  * Undergraduate Student in Computer Science, Shanghai Jiao Tong Univeisty
   * A member of The Zhiyuan Honors Program
   * Core Courses: Machine Learning, Modern Opertaing System, Computational Theory
-
+  <!-- * Overall Mark: 85/100 GPA: 3.57/4.3  -->
 Work experience
 ======
 * June 2022 – Present: Research Assistant
@@ -47,16 +48,16 @@ Work experience
 
 * Feb 2022 – June 2022: Research Assistant
   * Department of Electrical Engineering, Shanghai Jiao Tong Univeisty, Shanghai, China
-  * Proposed a distributed photovoltaic state monitoring model combining data processing algorithms, self-learning algorithms based on sparse coding, and distributed robust logistic regression algorithms
+  * Proposed a distributed photovoltaic state monitoring model based on sparse coding, and distributed robust logistic regression algorithms
   * Supervised by Prof [Xiaoyuan Xu](https://xiaoyuan-xu.github.io/)
 
 Awards
 ======
 * The Zhiyuan Honors Program Scholarship, SJTU, Shanghai, China, 2023
 * The Third-Class Scholarship, SJTU, Shanghai, China, 2024
-* The Merit Student(top5%), SJTU, Shanghai, China, 2024
+* The Merit Student (top 3%), SJTU, Shanghai, China, 2024
 * The National Special Award in [Electronic&Electrical Engineering Innovation Competition](https://eeeic.ces.org.cn/), China, 2024
-* Meritorious Winner in [Mathematical Contest In Modelling](https://www.comap.com/contests/mcm-icm)(Top 6.6%), America, 2024
+* Meritorious Winner in [Mathematical Contest In Modelling](https://www.comap.com/contests/mcm-icm) (Top 6.6%), America, 2024
 
 
 Skills
