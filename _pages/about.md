@@ -38,7 +38,7 @@ Education
   * Undergraduate Student in Computer Science, Shanghai Jiao Tong Univeisty
   * A member of The Zhiyuan Honors Program
   * Core Courses: Machine Learning, Modern Opertaing System, Computational Theory
-  <!-- * Overall Mark: 85/100 GPA: 3.57/4.3  -->
+
 Work experience
 ======
 * June 2022 – Present: Research Assistant
