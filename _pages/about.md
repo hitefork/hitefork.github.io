@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student studying [Computer Science](https://www.cs.sjtu.edu.cn/) , at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). Now I work as a research assistant in the [MVIG-RHOS](https://mvig-rhos.com/) group, supervised by Prof. [Yong-Lu Li](https://dirtyharrylyl.github.io/) and Prof. [Cewu Lu](https://www.mvig.org/), with PHD student [Xinpeng Liu](https://foruck.github.io/) as my mentor. My research interest includes Embodied AI, Machine Learning. My dream is to create a robot thinking and acting like a real human.
+I'm a third year undergraduate studying [Computer Science](https://www.cs.sjtu.edu.cn/) , at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). Now I work as a research assistant in the [MVIG-RHOS](https://mvig-rhos.com/) group, supervised by Prof. [Yong-Lu Li](https://dirtyharrylyl.github.io/) and Prof. [Cewu Lu](https://www.mvig.org/), with PHD student [Xinpeng Liu](https://foruck.github.io/) as my mentor. My research interest includes Embodied AI, Machine Learning. My dream is to create a robot thinking and acting like a real human.
 
 Moreover, I'm searching for an opportunity to work with another group as an onsite/offsite research assistant this summer. If you are interested in me, contact me please.
 
@@ -25,7 +25,7 @@ Moreover, I'm searching for an opportunity to work with another group as an onsi
 Publications 
 ======
 
-* Xinpeng Liu, **Junxuan Liang**, Zili Lin, Haowen Hou, Yong-Lu Li\*, Cewu Lu\* (\*=corresponding authors). "ImDy: Human Inverse Dynamics from Imitated Observations." arXiv preprint. [[Paper]](https://arxiv.org/abs/2410.17610) [[Project]](https://foruck.github.io/ImDy/)
+* Xinpeng Liu, **Junxuan Liang**, Zili Lin, Haowen Hou, Yong-Lu Li\*, Cewu Lu\* (\*=corresponding authors). "ImDy: Human Inverse Dynamics from Imitated Observations." arXiv preprint. [[Paper]](https://arxiv.org/abs/2410.17610) [[Project]](https://foruck.github.io/ImDy/) (Under review as a conference paper at ICLR 2025)
 * Xinpeng Liu, **Junxuan Liang**, Chenshuo Zhang, Zixuan Cai, Cewu Lu\*, Yong-Lu Li\* (\*=corresponding authors). "Homogeneous Dynamics Space for Heterogeneous Humans."  (Under review as a conference paper at CVPR 2025)
 * Zixuan Chen, Jiaxin Li, **Junxuan Liang**, Liming Tan, Yejie Guo, Cewu Lu\*, Yong-Lu Li\* (\*=corresponding authors). "M$^3$-VOS: Multi-Phase, Multi-Transition, and Multi-Scenery Video Object Segmentation."  (Under review as a conference paper at CVPR 2025)
 
@@ -33,7 +33,7 @@ Project
 ======
 
 * Photovoltaic Power Generation Prediction System: An app built with Matlab and Python [[Project]](https://github.com/hitefork/Photovoltaic-Power-Generation-Prediction-System)
-
+* Machine Learning for 3D Bin Packing Problem: SJTU CS3308 Machine Learning final project [[Project]](https://github.com/hitefork/ML-proj-BPP)
 
 Education
 ======
