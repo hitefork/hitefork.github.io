@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate studying [Computer Science](https://www.cs.sjtu.edu.cn/) , at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). Now I work as a research assistant in the [MVIG-RHOS](https://mvig-rhos.com/) group, supervised by Prof. [Yong-Lu Li](https://dirtyharrylyl.github.io/) and Prof. [Cewu Lu](https://www.mvig.org/), with PHD student [Xinpeng Liu](https://foruck.github.io/) as my mentor. My research interest includes Embodied AI, Machine Learning. My dream is to create a robot thinking and acting like a real human.
+Hi! I'm a third year undergraduate studying [Computer Science](https://www.cs.sjtu.edu.cn/) , at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). Now I work as a research assistant in the [MVIG-RHOS](https://mvig-rhos.com/) group, supervised by Prof. [Yong-Lu Li](https://dirtyharrylyl.github.io/) and Prof. [Cewu Lu](https://www.mvig.org/), with PHD student [Xinpeng Liu](https://foruck.github.io/) as my mentor. My research interest includes Embodied AI, Machine Learning. My dream is to create a robot thinking and acting like a real human.
 
-Moreover, I'm searching for an opportunity to work with another group as an onsite/offsite research assistant this summer. If you are interested in me, contact me please.
+**Moreover, I'm looking for an opportunity to work with another group as an onsite/offsite research assistant this summer. If you could offer me this chance, please feel free to directly contact me!**
 
 ⁽⁽ ◟(∗ ˊωˋ ∗)◞ ⁾⁾
 
@@ -41,7 +41,7 @@ Education
   * A member of The Zhiyuan Honors Program
   * Core Courses: Machine Learning, Modern Opertaing System, Computational Theory
 
-Work experience
+Research experience
 ======
 * June 2022 – Present: Research Assistant
   * [RHOS team at Machine Vision and Intelligence Group (MVIG-RHOS)](https://mvig-rhos.com/), Shanghai Jiao Tong Univeisty, Shanghai, China
