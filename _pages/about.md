@@ -14,7 +14,7 @@ Hi! I'm a third year undergraduate studying [Computer Science](https://www.cs.sj
 
 ⁽⁽ ◟(∗ ˊωˋ ∗)◞ ⁾⁾
 
-[Here is Junxuanl's Curriculum Vitae in PDF](../files/RenderCV.pdf)
+[Here is my Curriculum Vitae in PDF](../files/RenderCV.pdf)
 
 <figure>
 <img src="../files/walking.gif" width="150"/>
@@ -26,7 +26,7 @@ Publications
 ======
 
 * Xinpeng Liu, **Junxuan Liang**, Zili Lin, Haowen Hou, Yong-Lu Li\*, Cewu Lu\* (\*=corresponding authors). "ImDy: Human Inverse Dynamics from Imitated Observations." arXiv preprint. [[Paper]](https://arxiv.org/abs/2410.17610) [[Project]](https://foruck.github.io/ImDy/) (Under review as a conference paper at ICLR 2025)
-* Xinpeng Liu, **Junxuan Liang**, Chenshuo Zhang, Zixuan Cai, Cewu Lu\*, Yong-Lu Li\* (\*=corresponding authors). "Homogeneous Dynamics Space for Heterogeneous Humans." [[Project]](https://foruck.github.io/HDyS/)  (Under review as a conference paper)
+* Xinpeng Liu, **Junxuan Liang**, Chenshuo Zhang, Zixuan Cai, Cewu Lu\*, Yong-Lu Li\* (\*=corresponding authors). "Homogeneous Dynamics Space for Heterogeneous Humans." arXiv preprint. [[Paper]](https://arxiv.org/abs/2412.06146) [[Project]](https://foruck.github.io/HDyS/)  (Under review as a conference paper)
 * Zixuan Chen, Jiaxin Li, **Junxuan Liang**, Liming Tan, Yejie Guo, Cewu Lu\*, Yong-Lu Li\* (\*=corresponding authors). "M$^3$-VOS: Multi-Phase, Multi-Transition, and Multi-Scenery Video Object Segmentation."  (Under review as a conference paper)
 
 Project
@@ -45,7 +45,7 @@ Research experience
 ======
 * June 2022 – Present: Research Assistant
   * [RHOS team at Machine Vision and Intelligence Group (MVIG-RHOS)](https://mvig-rhos.com/), Shanghai Jiao Tong Univeisty, Shanghai, China
-  * Exploited the recently progressive human motion imitation algorithms and trained a data-driven human inverse dynamics solver ImDyS(olver) in a fully supervised manner
+  * Exploited the recently progressive human motion imitation algorithms and trained a data-driven human inverse dynamics solver in a fully supervised manner
   * Supervised by Prof [Yong-Lu Li](https://dirtyharrylyl.github.io/) and Prof [Cewu Lu](https://www.mvig.org/)
 
 * Feb 2022 – June 2022: Research Assistant
@@ -55,10 +55,10 @@ Research experience
 
 Awards
 ======
-* The Zhiyuan Honors Program Scholarship, SJTU, Shanghai, China, 2023
-* The Third-Class Scholarship, SJTU, Shanghai, China, 2024
-* The Merit Student (top 3%), SJTU, Shanghai, China, 2024
-* The National Special Award in [Electronic&Electrical Engineering Innovation Competition](https://eeeic.ces.org.cn/), China, 2024
+* Zhiyuan Honors Program Scholarship, SJTU, Shanghai, China, 2023
+* Third-Class Scholarship, SJTU, Shanghai, China, 2024
+* Merit Student (top 3%), SJTU, Shanghai, China, 2024
+* National Special Award in [Electronic&Electrical Engineering Innovation Competition](https://eeeic.ces.org.cn/), China, 2024
 * Meritorious Winner in [Mathematical Contest In Modelling](https://www.comap.com/contests/mcm-icm) (Top 6.6%), America, 2024
 
 
@@ -69,6 +69,7 @@ Skills
   * CET4 576
 * Physics Engine
   * Nimble Physics
+  * Mujoco
 * Programming Language
   * Python
   * C++/C
