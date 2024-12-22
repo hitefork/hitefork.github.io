@@ -14,10 +14,12 @@ Hi! I'm a third year undergraduate studying [Computer Science](https://www.cs.sj
 
 ⁽⁽ ◟(∗ ˊωˋ ∗)◞ ⁾⁾
 
-[Here is my Curriculum Vitae in PDF](../files/RenderCV.pdf)
+<!-- [Email](whitefork@sjtu.edu.cn) / [Github](https://github.com/hitefork)  -->
+
+[Here is my Curriculum Vitae](../files/RenderCV.pdf)
 
 <figure>
-<img src="../files/walking.gif" width="150"/>
+<img src="../files/walking.gif" width="100"/>
 <figcaption>One must imagine Sisyphus happy</figcaption>
 </figure>
 
