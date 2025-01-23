@@ -27,7 +27,7 @@ Hi! I'm a third year undergraduate studying [Computer Science](https://www.cs.sj
 Publications 
 ======
 
-* Xinpeng Liu, **Junxuan Liang**, Zili Lin, Haowen Hou, Yong-Lu Li\*, Cewu Lu\* (\*=corresponding authors). "ImDy: Human Inverse Dynamics from Imitated Observations." arXiv preprint. [[Paper]](https://arxiv.org/abs/2410.17610) [[Project]](https://foruck.github.io/ImDy/) (Under review as a conference paper at ICLR 2025)
+* Xinpeng Liu, **Junxuan Liang**, Zili Lin, Haowen Hou, Yong-Lu Li\*, Cewu Lu\* (\*=corresponding authors). "ImDy: Human Inverse Dynamics from Imitated Observations." ICLR 2025. [[Paper]](https://arxiv.org/abs/2410.17610) [[Project]](https://foruck.github.io/ImDy/) 
 * Xinpeng Liu, **Junxuan Liang**, Chenshuo Zhang, Zixuan Cai, Cewu Lu\*, Yong-Lu Li\* (\*=corresponding authors). "Homogeneous Dynamics Space for Heterogeneous Humans." arXiv preprint. [[Paper]](https://arxiv.org/abs/2412.06146) [[Project]](https://foruck.github.io/HDyS/)  (Under review as a conference paper)
 * Zixuan Chen, Jiaxin Li, Liming Tan, Yejie Guo, **Junxuan Liang**, Cewu Lu, Yong-Lu Li\* (\*=corresponding authors). "M$^3$-VOS: Multi-Phase, Multi-Transition, and Multi-Scenery Video Object Segmentation." [[Paper]](https://arxiv.org/abs/2412.13803) [[Project]](https://zixuan-chen.github.io/M-cube-VOS.github.io/) (Under review as a conference paper)
 
