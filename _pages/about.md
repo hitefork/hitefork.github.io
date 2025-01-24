@@ -84,7 +84,7 @@ Project
 ### Photovoltaic Power Generation Prediction System
 <p style="line-height:1.0">
 <font size="3">
-<strong>Junxuan Liang</strong>, GuoDong Qi, Kangheng Chen<br />
+Based on sparse coding, and distributed robust logistic regression algorithms<br />
 <a href="https://github.com/hitefork/Photovoltaic-Power-Generation-Prediction-System">[Project]</a> 
 <br />
 </font>
@@ -96,14 +96,12 @@ Project
 <p style="line-height:1.0">
 <font size="3">
 SJTU CS3308 Machine Learning final project<br />
+Based on behaviour cloning and RL<br />
 <a href="https://github.com/hitefork/ML-proj-BPP">[Project]</a> 
 <br />
 </font>
 </p>
 <br />
-
-
-
 
 
 Research experience
