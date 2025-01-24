@@ -84,7 +84,7 @@ Project
 ### Photovoltaic Power Generation Prediction System
 <p style="line-height:1.0">
 <font size="3">
-<strong>Junxuan Liang</strong>, GuoDong Qi, Kangheng Chen
+<strong>Junxuan Liang</strong>, GuoDong Qi, Kangheng Chen<br />
 <a href="https://github.com/hitefork/Photovoltaic-Power-Generation-Prediction-System">[Project]</a> 
 <br />
 </font>
@@ -95,7 +95,7 @@ Project
 ### Machine Learning for 3D Bin Packing Problem
 <p style="line-height:1.0">
 <font size="3">
-SJTU CS3308 Machine Learning final project
+SJTU CS3308 Machine Learning final project<br />
 <a href="https://github.com/hitefork/ML-proj-BPP">[Project]</a> 
 <br />
 </font>
