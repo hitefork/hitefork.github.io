@@ -23,7 +23,7 @@ Education
 <img style="float: left; margin:5px 10px" src="../images/logo.png" width="160" height="140">
 ### Shanghai Jiao Tong University
 <p style="line-height:1.0">
-<font size="2">
+<font size="3">
 Sept 2022 - Present<br />
 Undergraduate Student in Computer Science and Technology<br />
 A member of The Zhiyuan Honors Program<br />
@@ -37,7 +37,7 @@ Publications
 <img style="float: left; margin:5px 10px" src="../files/walking.gif" width="160" height="140">
 ### ImDy: Human Inverse Dynamics from Imitated Observations
 <p style="line-height:1.0">
-<font size="2">
+<font size="3">
 Xinpeng Liu, <strong>Junxuan Liang</strong>, Zili Lin, Haowen Hou, Yong-Lu Li*, Cewu Lu*<br />
 ICLR, 2025
 <a href="https://arxiv.org/abs/2410.17610">[Paper]</a> | 
@@ -48,7 +48,7 @@ ICLR, 2025
 </font>
 </p>
 <br />
-------
+
 <img style="float: left; margin:5px 10px" src="../images/hdys.png" width="160" height="140">
 ### Homogeneous Dynamics Space for Heterogeneous Humans
 <p style="line-height:1.0">
@@ -63,7 +63,7 @@ Arxiv Preprint
 </font>
 </p>
 <br />
--------
+
 <img style="float: left; margin:5px 10px" src="../images/VOS.png" width="160" height="140">
 ### M$^3$-VOS: Multi-Phase, Multi-Transition, and Multi-Scenery Video Object Segmentation
 <p style="line-height:1.0">
@@ -90,7 +90,7 @@ Project
 </font>
 </p>
 <br />
-------
+
 <img style="float: left; margin:5px 10px" src="../images/boxpacking.gif" width="160" height="140">
 ### Machine Learning for 3D Bin Packing Problem
 <p style="line-height:1.0">
@@ -120,11 +120,11 @@ Research experience
 
 Awards
 ------
-∙ [2024] Third-Class Scholarship, SJTU<br />
-∙ [2024] Merit Student (top 3%), SJTU<br />
-∙ [2024] National Special Award in [Electronic&Electrical Engineering Innovation Competition](https://eeeic.ces.org.cn/), China<br />
-∙ [2024] Meritorious Winner in [Mathematical Contest In Modelling](https://www.comap.com/contests/mcm-icm) (Top 6.6%), America<br />
-∙ [2023] Zhiyuan Honors Program Scholarship, SJTU<br />
+* [2024] Third-Class Scholarship, SJTU
+* [2024] Merit Student (top 3%), SJTU
+* [2024] National Special Award in [Electronic&Electrical Engineering Innovation Competition](https://eeeic.ces.org.cn/)
+* [2024] Meritorious Winner in [Mathematical Contest In Modelling](https://www.comap.com/contests/mcm-icm) (Top 6.6%), America
+* [2023] Zhiyuan Honors Program Scholarship, SJTU
 
 
 
