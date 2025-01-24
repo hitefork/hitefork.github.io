@@ -12,51 +12,107 @@ Hi! I'm a third year undergraduate student studying [Computer Science](https://w
 
 **Moreover, I'm looking for an opportunity to work with another group as an onsite/offsite research assistant this summer. If you could offer me this chance, please feel free to directly contact me!**
 
-⁽⁽ ◟(∗ ˊωˋ ∗)◞ ⁾⁾
-
 <!-- [Email](whitefork@sjtu.edu.cn) / [Github](https://github.com/hitefork)  -->
 
-[Here is my Curriculum Vitae](../files/RenderCV.pdf)
+[[Curriculum Vitae]](../files/RenderCV.pdf) / [[Email]](whitefork@sjtu.edu.cn) / [[Wechat]](../images/wechat.png)
 
-<figure>
-<img src="../files/walking.gif" width="100"/>
-<figcaption>One must imagine Sisyphus happy</figcaption>
-</figure>
+
+
+Education
+------
+<img style="float: left; margin:5px 10px" src="../images/logo.png" width="160" height="140">
+### Shanghai Jiao Tong University
+<p style="line-height:1.0">
+<font size="2">
+Sept 2022 - Present<br />
+Undergraduate Student in Computer Science and Technology<br />
+A member of The Zhiyuan Honors Program<br />
+Core Courses: Machine Learning, Modern Opertaing System, Computational Theory<br />
+</font>
+</p>
 
 
 Publications 
-======
-
-* Xinpeng Liu, **Junxuan Liang**, Zili Lin, Haowen Hou, Yong-Lu Li\*, Cewu Lu\* (\*=corresponding authors). "ImDy: Human Inverse Dynamics from Imitated Observations." ICLR 2025. [[Paper]](https://arxiv.org/abs/2410.17610) [[Project]](https://foruck.github.io/ImDy/) 
-* Xinpeng Liu, **Junxuan Liang**, Chenshuo Zhang, Zixuan Cai, Cewu Lu\*, Yong-Lu Li\* (\*=corresponding authors). "Homogeneous Dynamics Space for Heterogeneous Humans." arXiv preprint. [[Paper]](https://arxiv.org/abs/2412.06146) [[Project]](https://foruck.github.io/HDyS/)  (Under review as a conference paper)
-* Zixuan Chen, Jiaxin Li, Liming Tan, Yejie Guo, **Junxuan Liang**, Cewu Lu, Yong-Lu Li\* (\*=corresponding authors). "M$^3$-VOS: Multi-Phase, Multi-Transition, and Multi-Scenery Video Object Segmentation." [[Paper]](https://arxiv.org/abs/2412.13803) [[Project]](https://zixuan-chen.github.io/M-cube-VOS.github.io/) (Under review as a conference paper)
+------
+<img style="float: left; margin:5px 10px" src="../files/walking.gif" width="160" height="140">
+### ImDy: Human Inverse Dynamics from Imitated Observations
+<p style="line-height:1.0">
+<font size="2">
+Xinpeng Liu, <strong>Junxuan Liang</strong>, Zili Lin, Haowen Hou, Yong-Lu Li*, Cewu Lu*<br />
+ICLR, 2025
+<a href="https://arxiv.org/abs/2410.17610">[Paper]</a> | 
+<a href="https://github.com/Foruck/ImDy">[Code]</a> |
+<a href="https://foruck.github.io/ImDy/">[Project]</a> |
+<a href="https://www.youtube.com/watch?v=qDL8V2evAQQ">[Video]</a>
+<br />
+</font>
+</p>
+------
+<img style="float: left; margin:5px 10px" src="../images/hdys.png" width="160" height="140">
+### Homogeneous Dynamics Space for Heterogeneous Humans
+<p style="line-height:1.0">
+<font size="2">
+Xinpeng Liu, <strong>Junxuan Liang</strong>, Chenshuo Zhang, Zixuan Cai, Cewu Lu*, Yong-Lu Li*<br />
+Arxiv Preprint
+<a href="https://arxiv.org/abs/2412.06146">[Paper]</a> | 
+<a href="https://github.com/Foruck/HDyS">[Code]</a> |
+<a href="https://foruck.github.io/HDyS/">[Project]</a> |
+<a href="https://www.youtube.com/watch?v=Gq1tVjgELBU">[Video]</a>
+<br />
+</font>
+</p>
+-------
+<img style="float: left; margin:5px 10px" src="../images/VOS.png" width="160" height="140">
+### M$^3$-VOS: Multi-Phase, Multi-Transition, and Multi-Scenery Video Object Segmentation
+<p style="line-height:1.0">
+<font size="2">
+Zixuan Chen, Jiaxin Li, Liming Tan, Yejie Guo, <strong>Junxuan Liang</strong>, Cewu Lu, Yong-Lu Li* <br />
+Arxiv Preprint
+<a href="https://arxiv.org/abs/2412.13803">[Paper]</a> | 
+<a href="https://zixuan-chen.github.io/M-cube-VOS.github.io/">[Project]</a> |
+<a href="https://www.youtube.com/watch?v=K3M0QgKVQSI">[Video]</a>
+<br />
+</font>
+</p>
 
 Project
-======
+------
+<img style="float: left; margin:5px 10px" src="../images/powersystem.png" width="160" height="140">
+### Photovoltaic Power Generation Prediction System
+<p style="line-height:1.0">
+<font size="2">
+<a href="https://github.com/hitefork/Photovoltaic-Power-Generation-Prediction-System">[Project]</a> 
+<br />
+</font>
+</p>
+------
+<img style="float: left; margin:5px 10px" src="../images/boxpacking.gif" width="160" height="140">
+### Machine Learning for 3D Bin Packing Problem: SJTU CS3308 Machine Learning final project
+<p style="line-height:1.0">
+<font size="2">
+<a href="https://github.com/hitefork/ML-proj-BPP">[Project]</a> 
+<br />
+</font>
+</p>
 
-* Photovoltaic Power Generation Prediction System: An app built with Matlab and Python [[Project]](https://github.com/hitefork/Photovoltaic-Power-Generation-Prediction-System)
-* Machine Learning for 3D Bin Packing Problem: SJTU CS3308 Machine Learning final project [[Project]](https://github.com/hitefork/ML-proj-BPP)
 
-Education
-======
-  * Undergraduate Student in Computer Science, Shanghai Jiao Tong Univeisty
-  * A member of The Zhiyuan Honors Program
-  * Core Courses: Machine Learning, Modern Opertaing System, Computational Theory
+
+
 
 Research experience
-======
-* June 2022 – Present: Research Assistant
+------
+* Feb 2024 – Present: Research Assistant
   * [RHOS team at Machine Vision and Intelligence Group (MVIG-RHOS)](https://mvig-rhos.com/), Shanghai Jiao Tong Univeisty, Shanghai, China
   * Exploited the recently progressive human motion imitation algorithms and trained a data-driven human inverse dynamics solver in a fully supervised manner
   * Supervised by Prof [Yong-Lu Li](https://dirtyharrylyl.github.io/) and Prof [Cewu Lu](https://www.mvig.org/)
 
-* Feb 2022 – June 2022: Research Assistant
+* Sept 2023 – June 2024: Research Assistant
   * Department of Electrical Engineering, Shanghai Jiao Tong Univeisty, Shanghai, China
   * Proposed a distributed photovoltaic state monitoring model based on sparse coding, and distributed robust logistic regression algorithms
   * Supervised by Prof [Xiaoyuan Xu](https://xiaoyuan-xu.github.io/)
 
 Awards
-======
+------
 * Zhiyuan Honors Program Scholarship, SJTU, Shanghai, China, 2023
 * Third-Class Scholarship, SJTU, Shanghai, China, 2024
 * Merit Student (top 3%), SJTU, Shanghai, China, 2024
@@ -65,7 +121,7 @@ Awards
 
 
 Skills
-======
+------
 * English
   * CET6 528
   * CET4 576
@@ -81,8 +137,9 @@ Skills
 
   
 Service and leadership
-======
+------
 * Currently participate in voluntary blood donation
 * A member of the Linux Club at Shanghai Jiao Tong University
+
 
 <!-- [Email](whitefork@sjtu.edu.cn) / [Github](https://github.com/hitefork)  -->
