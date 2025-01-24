@@ -47,11 +47,12 @@ ICLR, 2025
 <br />
 </font>
 </p>
+<br />
 ------
 <img style="float: left; margin:5px 10px" src="../images/hdys.png" width="160" height="140">
 ### Homogeneous Dynamics Space for Heterogeneous Humans
 <p style="line-height:1.0">
-<font size="2">
+<font size="3">
 Xinpeng Liu, <strong>Junxuan Liang</strong>, Chenshuo Zhang, Zixuan Cai, Cewu Lu*, Yong-Lu Li*<br />
 Arxiv Preprint
 <a href="https://arxiv.org/abs/2412.06146">[Paper]</a> | 
@@ -61,11 +62,12 @@ Arxiv Preprint
 <br />
 </font>
 </p>
+<br />
 -------
 <img style="float: left; margin:5px 10px" src="../images/VOS.png" width="160" height="140">
 ### M$^3$-VOS: Multi-Phase, Multi-Transition, and Multi-Scenery Video Object Segmentation
 <p style="line-height:1.0">
-<font size="2">
+<font size="3">
 Zixuan Chen, Jiaxin Li, Liming Tan, Yejie Guo, <strong>Junxuan Liang</strong>, Cewu Lu, Yong-Lu Li* <br />
 Arxiv Preprint
 <a href="https://arxiv.org/abs/2412.13803">[Paper]</a> | 
@@ -74,26 +76,31 @@ Arxiv Preprint
 <br />
 </font>
 </p>
+<br />
 
 Project
 ------
 <img style="float: left; margin:5px 10px" src="../images/powersystem.png" width="160" height="140">
 ### Photovoltaic Power Generation Prediction System
 <p style="line-height:1.0">
-<font size="2">
+<font size="3">
+<strong>Junxuan Liang</strong>, GuoDong Qi, Kangheng Chen
 <a href="https://github.com/hitefork/Photovoltaic-Power-Generation-Prediction-System">[Project]</a> 
 <br />
 </font>
 </p>
+<br />
 ------
 <img style="float: left; margin:5px 10px" src="../images/boxpacking.gif" width="160" height="140">
-### Machine Learning for 3D Bin Packing Problem: SJTU CS3308 Machine Learning final project
+### Machine Learning for 3D Bin Packing Problem
 <p style="line-height:1.0">
-<font size="2">
+<font size="3">
+SJTU CS3308 Machine Learning final project
 <a href="https://github.com/hitefork/ML-proj-BPP">[Project]</a> 
 <br />
 </font>
 </p>
+<br />
 
 
 
@@ -113,11 +120,15 @@ Research experience
 
 Awards
 ------
-* Zhiyuan Honors Program Scholarship, SJTU, Shanghai, China, 2023
-* Third-Class Scholarship, SJTU, Shanghai, China, 2024
-* Merit Student (top 3%), SJTU, Shanghai, China, 2024
-* National Special Award in [Electronic&Electrical Engineering Innovation Competition](https://eeeic.ces.org.cn/), China, 2024
-* Meritorious Winner in [Mathematical Contest In Modelling](https://www.comap.com/contests/mcm-icm) (Top 6.6%), America, 2024
+∙ [2024] Third-Class Scholarship, SJTU<br />
+∙ [2024] Merit Student (top 3%), SJTU<br />
+∙ [2024] National Special Award in [Electronic&Electrical Engineering Innovation Competition](https://eeeic.ces.org.cn/), China<br />
+∙ [2024] Meritorious Winner in [Mathematical Contest In Modelling](https://www.comap.com/contests/mcm-icm) (Top 6.6%), America<br />
+∙ [2023] Zhiyuan Honors Program Scholarship, SJTU<br />
+
+
+
+
 
 
 Skills
@@ -138,8 +149,9 @@ Skills
   
 Service and leadership
 ------
-* Currently participate in voluntary blood donation
-* A member of the Linux Club at Shanghai Jiao Tong University
+∙ Currently participate in voluntary blood donation<br />
+∙ A member of the Linux Club at Shanghai Jiao Tong University<br />
+
 
 
 <!-- [Email](whitefork@sjtu.edu.cn) / [Github](https://github.com/hitefork)  -->
