@@ -14,7 +14,7 @@ Hi! I'm a third year undergraduate student studying [Computer Science](https://w
 
 <!-- [Email](whitefork@sjtu.edu.cn) / [Github](https://github.com/hitefork)  -->
 
-[[Curriculum Vitae]](../files/RenderCV.pdf) / [[Email]](whitefork@sjtu.edu.cn) / [[Wechat]](../images/wechat.png)
+[[Curriculum Vitae]](../files/RenderCV.pdf) / [[Wechat]](../images/wechat.png)
 
 
 
