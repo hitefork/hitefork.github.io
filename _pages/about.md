@@ -12,6 +12,9 @@ Hi! I'm a third year undergraduate student studying [Computer Science](https://w
 
 **Moreover, I'm looking for an opportunity to work with another group as an onsite/offsite research assistant this summer. If you could offer me this chance, please feel free to directly contact me!**
 
+**My goal is to pursue a PhD position in 2026 Fall.**
+
+
 <!-- [Email](whitefork@sjtu.edu.cn) / [Github](https://github.com/hitefork)  -->
 
 [[Curriculum Vitae]](../files/RenderCV.pdf) / [[Wechat]](../images/wechat.png)
