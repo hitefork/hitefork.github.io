@@ -21,7 +21,7 @@ Hi! I'm a third year undergraduate majoring [Computer Science](https://www.cs.sj
 
 
 
-Education
+🎓 Education
 ------
 <img style="float: left; margin:5px 10px" src="../images/logo.png" width="160" height="140">
 ### Shanghai Jiao Tong University
@@ -35,7 +35,7 @@ Core Courses: Machine Learning, Modern Opertaing System, Computational Theory<br
 </p>
 
 
-Publications 
+📜 Publications
 ------
 <img style="float: left; margin:5px 10px" src="../files/walking.gif" width="160" height="140">
 ### ImDy: Human Inverse Dynamics from Imitated Observations
@@ -81,7 +81,7 @@ Arxiv Preprint
 </p>
 <br />
 
-Project
+📝 Project
 ------
 <img style="float: left; margin:5px 10px" src="../images/powersystem.png" width="160" height="140">
 ### Photovoltaic Power Generation Prediction System
@@ -106,8 +106,7 @@ Based on behaviour cloning and RL<br />
 </p>
 <br />
 
-
-Research experience
+💼 Research Experience
 ------
 * Feb 2024 – Present: Research Assistant
   * [RHOS team at Machine Vision and Intelligence Group (MVIG-RHOS)](https://mvig-rhos.com/), Shanghai Jiao Tong Univeisty, Shanghai, China
@@ -119,20 +118,20 @@ Research experience
   * Proposed a distributed photovoltaic state monitoring model based on sparse coding, and distributed robust logistic regression algorithms
   * Supervised by Prof [Xiaoyuan Xu](https://xiaoyuan-xu.github.io/)
 
-Awards
+🥇 Awards🥈🥉🏅🎖️
 ------
-* [2024] Third-Class Scholarship, SJTU
-* [2024] Merit Student (top 3%), SJTU
-* [2024] National Special Award in [Electronic&Electrical Engineering Innovation Competition](https://eeeic.ces.org.cn/)
-* [2024] Meritorious Winner in [Mathematical Contest In Modelling](https://www.comap.com/contests/mcm-icm) (Top 6.6%), America
-* [2023] Zhiyuan Honors Program Scholarship, SJTU
+* [2024] Third-Class Scholarship🥉, SJTU
+* [2024] Merit Student (top 3%)🥇, SJTU
+* [2024] National Special Award in [Electronic&Electrical Engineering Innovation Competition](https://eeeic.ces.org.cn/)🥇
+* [2024] Meritorious Winner in [Mathematical Contest In Modelling](https://www.comap.com/contests/mcm-icm) (Top 6.6%)🥉, America
+* [2023] Zhiyuan Honors Program Scholarship🥇, SJTU
 
 
 
 
 
 
-Skills
+🧙‍♂️ Skills
 ------
 * English
   * CET6 528
@@ -147,12 +146,16 @@ Skills
   * Basketball
   * Table Tennis
 
-  
-Service and leadership
+📚 Club
 ------
-∙ Currently participate in voluntary blood donation<br />
-∙ A member of the Linux Club at Shanghai Jiao Tong University<br />
+* A member of the Linux Club at Shanghai Jiao Tong University<br />
 
+🤺 Hobby
+------
+* Historical research in world war II: Vive la Peace! 
 
+🌐 related report
+------
+* [2024.08] [6项特等奖! 电院师生团队在第三届高校电气电子工程创新总决赛大放异彩](https://mp.weixin.qq.com/s/xy_w8iYb11BhPk_4KuV8Wg)
 
 <!-- [Email](whitefork@sjtu.edu.cn) / [Github](https://github.com/hitefork)  -->
