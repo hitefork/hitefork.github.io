@@ -57,7 +57,7 @@ ICLR, 2025
 <p style="line-height:1.0">
 <font size="3">
 Xinpeng Liu, <strong>Junxuan Liang</strong>, Chenshuo Zhang, Zixuan Cai, Cewu Lu*, Yong-Lu Li*<br />
-Arxiv Preprint
+CVPR, 2025
 <a href="https://arxiv.org/abs/2412.06146">[Paper]</a> | 
 <a href="https://github.com/Foruck/HDyS">[Code]</a> |
 <a href="https://foruck.github.io/HDyS/">[Project]</a> |
@@ -72,7 +72,7 @@ Arxiv Preprint
 <p style="line-height:1.0">
 <font size="3">
 Zixuan Chen, Jiaxin Li, Liming Tan, Yejie Guo, <strong>Junxuan Liang</strong>, Cewu Lu, Yong-Lu Li* <br />
-Arxiv Preprint
+CVPR, 2025
 <a href="https://arxiv.org/abs/2412.13803">[Paper]</a> | 
 <a href="https://zixuan-chen.github.io/M-cube-VOS.github.io/">[Project]</a> |
 <a href="https://www.youtube.com/watch?v=K3M0QgKVQSI">[Video]</a>
