@@ -12,7 +12,6 @@ redirect_from:
 Education
 ======
 * Undergraduate Student in Computer Science,Shanghai Jiao Tong Univeisty
-  * GPA: 3.54/4.3 
   * A member of The Zhiyuan Honors Program
   * Coursework: Machine Learning, Modern Opertaing System, Computational Theory
 
