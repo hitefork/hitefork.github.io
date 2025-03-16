@@ -94,6 +94,20 @@ Based on sparse coding, and distributed robust logistic regression algorithms<br
 </p>
 <br />
 
+<img style="float: left; margin:5px 10px" src="../images/nlp2024.png" width="160" height="140">
+### LLM as a chatbot
+<p style="line-height:1.0">
+<font size="3">
+SJTU CS4314 Natural Language Process final project<br />
+Finetune based on Qwen<br />
+<a href="https://github.com/hitefork/nlp_2024">[Project]</a> 
+<br />
+</font>
+</p>
+<br />
+
+
+
 <img style="float: left; margin:5px 10px" src="../images/boxpacking.gif" width="160" height="140">
 ### Machine Learning for 3D Bin Packing Problem
 <p style="line-height:1.0">
