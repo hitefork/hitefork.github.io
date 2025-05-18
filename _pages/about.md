@@ -154,6 +154,7 @@ Based on behaviour cloning and RL<br />
 🧙‍♂️ Skills
 ------
 * English
+  * IELTS 6.5
   * CET6 528
   * CET4 576
 * Physics Engine
