@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a third year undergraduate majoring [Computer Science](https://www.cs.sjtu.edu.cn/) , at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). Now I work as a research assistant in the [MVIG-RHOS](https://mvig-rhos.com/) group, supervised by Prof. [Yong-Lu Li](https://dirtyharrylyl.github.io/) and Prof. [Cewu Lu](https://www.mvig.org/), with PHD student [Xinpeng Liu](https://foruck.github.io/) as my mentor. My research interest includes Embodied AI, Machine Learning, 3D Human Motion Generation. My dream is to create a robot thinking and acting like a real human.
+Hi! I'm a third year undergraduate majoring [Computer Science](https://www.cs.sjtu.edu.cn/) , at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). Now I work as a research assistant in the [MVIG-RHOS](https://mvig-rhos.com/) group, supervised by Prof. [Yong-Lu Li](https://dirtyharrylyl.github.io/) and Prof. [Cewu Lu](https://www.mvig.org/), with PHD student [Xinpeng Liu](https://foruck.github.io/) as my mentor. Moreover, I am very fortune to be a research assistant in [Cognitive Assistance Lab](https://www.cs.cmu.edu/~NavCog/) at [Carnegia Mellon University](https://www.cmu.edu/), supervised by Prof. [Kris Kitani](https://kriskitani.github.io/), with PHD student [Jinkun Cao](https://www.jinkuncao.com/) as my mentor.
+
+My research interest includes Embodied AI, Human Object Interaction, 3D Human Motion Generation. My dream is to create a robot thinking and acting like a real human.
 
 **Moreover, I'm looking for an opportunity to work with another group as an onsite/offsite research assistant this summer. If you could offer me this chance, please feel free to directly contact me!**
 
@@ -128,6 +130,11 @@ Based on behaviour cloning and RL<br />
 
 💼 Research Experience
 ------
+* May 2025 – Present: Research Assistant
+  * [Cognitive Assitance Lab](https://www.cs.cmu.edu/~NavCog/), Carnegia Mellon University, Pennsylvania, USA
+  * Explore physics-based whole-body human object interaction imitation across diverse objects and skills
+  * Supervised by Prof [Kris Kitani](https://kriskitani.github.io/)
+
 * Feb 2024 – Present: Research Assistant
   * [RHOS team at Machine Vision and Intelligence Group (MVIG-RHOS)](https://mvig-rhos.com/), Shanghai Jiao Tong Univeisty, Shanghai, China
   * Exploited the recently progressive human motion imitation algorithms and trained a data-driven human inverse dynamics solver in a fully supervised manner
