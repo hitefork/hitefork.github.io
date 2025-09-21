@@ -14,7 +14,7 @@ I am deeply interested in leveraging the inherent structure of the physical worl
 
 My research interest includes Embodied AI, Human Object Interaction, 3D Human Motion Generation. My dream is to create a robot thinking and acting like a real human.
 
-**News: My PHD journey at Shanghai Jiao Tong University and Shanghai Innovation Institute will start next year, under the supervision of Prof. [Yichao Yan](https://daodaofr.github.io/) and Prof. [Yong-Lu Li](https://dirtyharrylyl.github.io/):blush:**
+**News: My PHD journey at Shanghai Jiao Tong University and Shanghai Innovation Institute will start next year, under the supervision of Prof. [Yichao Yan](https://daodaofr.github.io/) and Prof. [Yong-Lu Li](https://dirtyharrylyl.github.io/)**
 
 
 <!-- [Email](whitefork@sjtu.edu.cn) / [Github](https://github.com/hitefork)  -->
