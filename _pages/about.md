@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a final-year undergraduate student at Shanghai Jiao Tong University. Now I work as a research assistant in the [MVIG-RHOS](https://mvig-rhos.com/) group, supervised by Prof. [Yong-Lu Li](https://dirtyharrylyl.github.io/) and Prof. [Cewu Lu](https://www.mvig.org/), with PHD student [Xinpeng Liu](https://foruck.github.io/) as my mentor. Moreover, I am very fortune to be a research assistant in [Cognitive Assistance Lab](https://www.cs.cmu.edu/~NavCog/) at Carnegia Mellon University, supervised by Prof. [Kris Kitani](https://kriskitani.github.io/), with PHD student [Jinkun Cao](https://www.jinkuncao.com/) as my mentor.
+Hi! I'm a final-year undergraduate student at Shanghai Jiao Tong University. 
+
+I am fortunate to be advised by Prof. [Yichao Yan](https://daodaofr.github.io/) at [X-HumanLab](https://daodaofr.github.io/), Research Scientist [Jinkun Cao](https://www.jinkuncao.com/) at Meta Superintelligence Lab, Prof. [Yong-Lu Li](https://dirtyharrylyl.github.io/) and Prof. [Cewu Lu](https://www.mvig.org/) and PHD student [Xinpeng Liu](https://foruck.github.io/) at [MVIG-RHOS](https://mvig-rhos.com/) group.
 
 I am deeply interested in leveraging the inherent structure of the physical world, governed by its fundamental laws, to guide and inform more efficient and generalizable approaches to learning.
 
 My research interest includes Embodied AI, Human Object Interaction, 3D Human Motion Generation. My dream is to create a robot thinking and acting like a real human.
 
-**News: My PHD journey at Shanghai Jiao Tong University and Shanghai Innovation Institute will start next year, under the supervision of Prof. [Yichao Yan](https://daodaofr.github.io/) and Prof. [Yong-Lu Li](https://dirtyharrylyl.github.io/)**
 
 
 <!-- [Email](whitefork@sjtu.edu.cn) / [Github](https://github.com/hitefork)  -->
@@ -45,6 +46,21 @@ Core Courses: Machine Learning, Modern Opertaing System, Computational Theory<br
 
 📜 Publications
 ------
+<img style="float: left; margin:5px 10px" src="../images/Open4DHOI.png" width="160" height="140">
+### Efficient and Scalable Monocular Human-Object Interaction Motion Reconstruction
+<p style="line-height:1.0">
+<font size="3">
+Boran Wen, Ye Lu, Keyan Wan, Sirui Wang, Jiahong Zhou, <strong>Junxuan Liang</strong>, Xinpeng Liu, Bang Xiao, Dingbang Huang, Ruiyang Liu, Yong-Lu Li*<br />
+Under review
+<a href="https://arxiv.org/pdf/2512.00960">[Paper]</a> | 
+<a href="https://github.com/wenboran2002/open4dhoi_code">[Code]</a> |
+<a href="https://wenboran2002.github.io/open4dhoi/">[Project]</a> |
+<a href="https://www.youtube.com/watch?v=eIoUBbeRM08">[Video]</a>
+<br />
+</font>
+</p>
+<br />
+
 <img style="float: left; margin:5px 10px" src="../files/walking.gif" width="160" height="140">
 ### ImDy: Human Inverse Dynamics from Imitated Observations
 <p style="line-height:1.0">
@@ -130,10 +146,10 @@ Based on behaviour cloning and RL<br />
 
 💼 Research Experience
 ------
-* May 2025 – Present: Research Assistant
-  * [Cognitive Assitance Lab](https://www.cs.cmu.edu/~NavCog/), Carnegia Mellon University, Pennsylvania, USA
+* Sept 2025 – Present: Research Assistant
+  * [X-HumanLab](https://daodaofr.github.io/), Shanghai Jiao Tong Univeisty, Shanghai, China
   * Explore physics-based whole-body human object interaction imitation across diverse objects and skills
-  * Supervised by Prof [Kris Kitani](https://kriskitani.github.io/)
+  * Supervised by Prof. [Yichao Yan](https://daodaofr.github.io/)
 
 * Feb 2024 – Present: Research Assistant
   * [RHOS team at Machine Vision and Intelligence Group (MVIG-RHOS)](https://mvig-rhos.com/), Shanghai Jiao Tong Univeisty, Shanghai, China
