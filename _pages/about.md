@@ -14,7 +14,7 @@ I am fortunate to be advised by Prof. [Yichao Yan](https://daodaofr.github.io/) 
 
 I am deeply interested in leveraging the inherent structure of the physical world, governed by its fundamental laws, to guide and inform more efficient and generalizable approaches to learning.
 
-My research interest includes AIGC, Human Object Interaction, 3D Human Motion Generation.
+My research interest includes AIGC, Computer Vision, 3D Human Motion Generation.
 
 
 
@@ -33,12 +33,12 @@ My research interest includes AIGC, Human Object Interaction, 3D Human Motion Ge
 Affiliations
 ------
 <img style="float: left; margin:5px 10px" src="../images/mihoyo.png" width="160" height="140">
-### Mihoyo
+### miHoYo
 <p style="line-height:1.0">
 <font size="3">
 Nov 2025 - Present<br />
 Research Scientist<br />
-Intern, Motion Generation/<br />
+Intern, <a href="https://www.mihoyo.com/en/">[Motion Generation]</a><br />
 <br />
 </font>
 </p>
