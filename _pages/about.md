@@ -10,11 +10,11 @@ redirect_from:
 
 Hi! I'm a final-year undergraduate student at Shanghai Jiao Tong University. 
 
-I am fortunate to be advised by Prof. [Yichao Yan](https://daodaofr.github.io/) at [X-HumanLab](https://daodaofr.github.io/), Research Scientist [Jinkun Cao](https://www.jinkuncao.com/) at Meta Superintelligence Lab, Prof. [Yong-Lu Li](https://dirtyharrylyl.github.io/) and Prof. [Cewu Lu](https://www.mvig.org/) and PHD student [Xinpeng Liu](https://foruck.github.io/) at [MVIG-RHOS](https://mvig-rhos.com/) group.
+I am fortunate to be advised by Prof. [Yichao Yan](https://daodaofr.github.io/) at [X-HumanLab](https://daodaofr.github.io/), Prof. [Cewu Lu](https://www.mvig.org/) and Prof. [Yong-Lu Li](https://dirtyharrylyl.github.io/) and PHD student [Xinpeng Liu](https://foruck.github.io/) at [MVIG-RHOS](https://mvig-rhos.com/) group.
 
 I am deeply interested in leveraging the inherent structure of the physical world, governed by its fundamental laws, to guide and inform more efficient and generalizable approaches to learning.
 
-My research interest includes Embodied AI, Human Object Interaction, 3D Human Motion Generation. My dream is to create a robot thinking and acting like a real human.
+My research interest includes AIGC, Human Object Interaction, 3D Human Motion Generation.
 
 
 
@@ -30,8 +30,20 @@ My research interest includes Embodied AI, Human Object Interaction, 3D Human Mo
 
 
 
-🎓 Education
+Affiliations
 ------
+<img style="float: left; margin:5px 10px" src="../images/mihoyo.png" width="160" height="140">
+### Mihoyo
+<p style="line-height:1.0">
+<font size="3">
+Nov 2025 - Present<br />
+Research Scientist<br />
+Intern, Motion Generation/<br />
+<br />
+</font>
+</p>
+<br />
+
 <img style="float: left; margin:5px 10px" src="../images/logo.png" width="160" height="140">
 ### Shanghai Jiao Tong University
 <p style="line-height:1.0">
@@ -40,8 +52,10 @@ Sept 2022 - Present<br />
 Undergraduate Student in Computer Science and Technology<br />
 A member of The Zhiyuan Honors Program<br />
 Core Courses: Machine Learning, Modern Opertaing System, Computational Theory<br />
+<br />
 </font>
 </p>
+<br />
 
 
 📜 Publications
