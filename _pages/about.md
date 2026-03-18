@@ -33,12 +33,12 @@ My research interest includes AIGC, Computer Vision, 3D Human Motion Generation.
 Affiliations
 ------
 <img style="float: left; margin:5px 10px" src="../images/mihoyo.png" width="160" height="140">
-### miHoYo
+### <a href="https://www.mihoyo.com/en/">[miHoYo]</a>
 <p style="line-height:1.0">
 <font size="3">
 Nov 2025 - Present<br />
 Research Scientist<br />
-Intern, <a href="https://www.mihoyo.com/en/">[Motion Generation]</a><br />
+Intern, Motion Generation<br />
 <br />
 </font>
 </p>
